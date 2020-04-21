@@ -3,7 +3,17 @@ entries:
   eventapp-lab02:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-04-21T10:49:21.1336535+09:00"
+    created: "2020-04-21T13:39:18.6100998+09:00"
+    description: A Helm chart for Kubernetes
+    digest: 938bb4bbbd229ce7c3e958fa3c729beb9f85f11646fff424b02f726195124a41
+    name: eventapp-lab02
+    type: application
+    urls:
+    - https://ibm-cloud747.github.io/mycharts/eventapp-lab02-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-04-21T13:39:18.6100998+09:00"
     description: A Helm chart for Kubernetes
     digest: 8699bc7b299f37771dd87bde3ca2f1d5b4bf02971ee4909199a1614a75522159
     name: eventapp-lab02
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://ibm-cloud747.github.io/mycharts/eventapp-lab02-0.1.0.tgz
     version: 0.1.0
-generated: "2020-04-21T10:49:21.1276936+09:00"
+generated: "2020-04-21T13:39:18.6050934+09:00"
